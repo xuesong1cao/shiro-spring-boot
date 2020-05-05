@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/shiro/pom.xml" />
+        <option value="D:/google/shiro-master/shiro-master/samples/spring-boot/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-bean/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="D:/google/shiro-master/shiro-master/samples/spring-boot/pom.xml" />
+        <option value="D:/google/shiro-master/shiro-master/samples/spring-boot/spring-bean/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
